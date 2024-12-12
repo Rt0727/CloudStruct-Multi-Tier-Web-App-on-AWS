@@ -1,4 +1,4 @@
-# CloudStruct: Multi-Tier Web App on AWS (Setup)
+# CloudStruct: Multi-Tier Web App on AWS
 
 ## Overview
 This repository provides an automated setup for a scalable, multi-tier web application on AWS. The project uses Terraform for Infrastructure as Code (IaC) to provision AWS resources such as EC2, RDS, S3, and IAM roles. It features Docker for containerization and Bash scripts for automation, ensuring efficient and maintainable deployment pipelines.

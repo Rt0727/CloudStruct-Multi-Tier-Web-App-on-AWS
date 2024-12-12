@@ -11,11 +11,14 @@ This repository provides an automated setup for a scalable, multi-tier web appli
 - **Containerized Environment**: Docker ensures consistent development and testing environments.
 
 ## Technologies Used
-- **Cloud Platform**: AWS (EC2, RDS, S3, IAM)
-- **Database**: PostgreSQL on RDS
-- **IaC**: Terraform
-- **Containerization**: Docker, Docker Compose
-- **Automation**: Bash Scripts
+
+| Technology                   |  Purpose                             |
+|------------------------------|--------------------------------------|
+| **PostgreSQL**               | Database for library data            |
+| **Docker**                   | Containerization                     |
+| **Terraform**                | Infrastructure provisioning          |
+| **Bash Scripts**             | Automation of routine tasks          |
+| **AWS (EC2, RDS, S3, IAM)**  | Core application logic for the CLI   |
 
 ## Prerequisites
 - Install [Terraform](https://www.terraform.io/)

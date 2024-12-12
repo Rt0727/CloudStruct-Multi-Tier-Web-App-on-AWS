@@ -20,7 +20,6 @@ This repository provides an automated setup for a scalable, multi-tier web appli
 | **Terraform**                | Infrastructure provisioning          |
 | **Bash Scripts**             | Automation of routine tasks          |
 | **AWS (EC2, RDS, S3, IAM)**  | Core application logic for the CLI   |
-| **Python**                   | Manage AWS resources (EC2, RDS, S3, IAM) and deploy the app|
 
 ## Prerequisites
 - Install [Terraform](https://www.terraform.io/)
@@ -157,4 +156,4 @@ Access logs for debugging:
 
 For any questions or issues, feel free to reach out at `your.email@example.com`.
 
-```
+--- 
